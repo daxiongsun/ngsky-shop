@@ -1,0 +1,9 @@
+dependencies {
+    compile 'com.ngsky:shop-bean:1.0-SNAPSHOT'
+    compile libs['mybatis']
+    compile libs['mybatis-spring']
+    compile libs['mybatis-paginator']
+    compile libs['pagehelper']
+    compile libs['mysql-connector-java']
+    compile libs['druid']
+}

@@ -1,0 +1,3 @@
+dependencies {
+    compile 'com.ngsky:shop-bean:1.0-SNAPSHOT'
+}

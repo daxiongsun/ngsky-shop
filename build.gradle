@@ -1,0 +1,26 @@
+apply from: 'dependency.gradle'
+
+// 全局項目配置
+allprojects {
+    apply plugin: 'java'
+    apply plugin: 'maven'
+    apply plugin: "idea"
+
+    group = 'com.ngsky'
+    version = '1.0-SNAPSHOT'
+
+    sourceCompatibility=1.8
+    targetCompatibility=1.8
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+//        // 自定义的仓库源
+//        maven{
+//            url = "https://gitee.com/kcp1104/MavenRepos/raw/master"
+//        }
+    }
+    dependencies{
+        testCompile libs['junit']
+    }
+}

@@ -6,7 +6,7 @@ spring:
       name: service-consumer
     base-package: com.ngsky.web.api
     registry:
-      address: 192.168.42.157
+      address: 192.168.204.128
       port: 2181
     protocol:
       name: dubbo

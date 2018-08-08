@@ -1,3 +1,4 @@
 dependencies {
     compile 'com.ngsky:shop-bean:1.0-SNAPSHOT'
+    compile('com.ngsky:shop-common:1.0-SNAPSHOT')
 }

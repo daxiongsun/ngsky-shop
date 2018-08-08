@@ -8,5 +8,6 @@ repositories {
 }
 
 dependencies {
+    compile('com.ngsky:shop-common:1.0-SNAPSHOT')
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }

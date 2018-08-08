@@ -8,7 +8,7 @@ dependencies {
     compile libs['jackson-core']
     compile libs['httpclient']
     compile libs['quartz']
-    compile libs['slf4j-api']
-    compile libs['slf4j-log4j12']
-    compile libs['log4j']
+//    compile libs['slf4j-api']
+//    compile libs['slf4j-log4j12']
+//    compile libs['log4j']
 }

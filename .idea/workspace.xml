@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4714294c-f399-40c7-a6d3-c1cad0bb0268" name="Default" comment="" />
+    <list default="true" id="4714294c-f399-40c7-a6d3-c1cad0bb0268" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dependency.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/Content.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentCategoryExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentCategoryExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentCategoryExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentCategoryExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ContentExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemCatExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemCatExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemCatExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemCatExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemDescExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemDescExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemDescExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemDescExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/ItemParamItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderShipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderShippingExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderShippingExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderShippingExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/OrderShippingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/classes/java/main/com/ngsky/bean/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/libs/shop-bean-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/poms/pom-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-bean/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-dao/build/libs/shop-dao-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-dao/build/poms/pom-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-dao/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/build/classes/java/main/com/ngsky/interfaces/ItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/build/libs/shop-interface-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/build/poms/pom-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/out/production/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-service/out/production/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/out/production/classes/com/ngsky/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-service/out/production/classes/com/ngsky/service/impl/ItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shop-web/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/out/production/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-web/out/production/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/out/production/classes/com/ngsky/web/api/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-web/out/production/classes/com/ngsky/web/api/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-web/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -70,6 +164,12 @@
         <task path="$PROJECT_DIR$/shop-web">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/shop-common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/shop-manager">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -80,22 +180,66 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
-                <item name=":shop-manager:shop-interface" type="2d1252cf:ModuleNode" />
+                <item name=":shop-manager:shop-service" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
-                <item name=":shop-manager:shop-interface" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name=":shop-manager:shop-service" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
-                <item name=":shop-manager:shop-interface" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
+                <item name=":shop-manager:shop-service" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
+                <item name=":shop-manager:shop-service" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
+                <item name=":shop-web" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
+                <item name=":shop-web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
+                <item name=":shop-web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SHOP-SKY" type="f1a62948:ProjectNode" />
+                <item name=":shop-web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
             </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -104,32 +248,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dependency.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dependency.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="82" column="117" selection-start-line="82" selection-start-column="104" selection-end-line="82" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-web/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopManagerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/ShopManagerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-web/src/main/resources/application.yml">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-common/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="10" selection-start-column="6" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="29" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -151,6 +359,7 @@
       <find>=</find>
       <find>pagehelper</find>
       <find>dubbo</find>
+      <find>25</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -158,6 +367,9 @@
       <replace>&quot;:&quot;</replace>
       <replace>:</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -302,11 +514,6 @@
                 <option name="description" value="Runs the unit tests." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in project ':shop-web'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a Spring Boot application." />
@@ -594,11 +801,6 @@
                 <option name="description" value="Runs the unit tests." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-manager" />
                 <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in project ':shop-manager:shop-service'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-manager" />
-                <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a Spring Boot application." />
@@ -1160,11 +1362,6 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in project ':shop-manager:shop-service'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-manager/shop-service" />
-                <option name="name" value="dependencyManagement" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a Spring Boot application." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-manager/shop-service" />
                 <option name="name" value="bootRun" />
@@ -1311,11 +1508,6 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in project ':shop-web'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-web" />
-                <option name="name" value="dependencyManagement" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a Spring Boot application." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shop-web" />
                 <option name="name" value="bootRun" />
@@ -1392,19 +1584,19 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="18351805123813" />
+        <entry key="$PROJECT_DIR$" value="18376070042669" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1254345395" />
-        <entry key="$PROJECT_DIR$/dependency.gradle" value="955061908" />
+        <entry key="$PROJECT_DIR$/dependency.gradle" value="2004851799" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2174597379" />
-        <entry key="$PROJECT_DIR$/shop-common/build.gradle" value="351940685" />
-        <entry key="$PROJECT_DIR$/shop-manager/build.gradle" value="3137079050" />
+        <entry key="$PROJECT_DIR$/shop-common/build.gradle" value="2993686819" />
+        <entry key="$PROJECT_DIR$/shop-manager/build.gradle" value="3109108349" />
         <entry key="$PROJECT_DIR$/shop-manager/shop-bean/build.gradle" value="2106507894" />
         <entry key="$PROJECT_DIR$/shop-manager/shop-dao/build.gradle" value="1644054347" />
-        <entry key="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" value="2269816257" />
-        <entry key="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" value="949652047" />
-        <entry key="$PROJECT_DIR$/shop-web/build.gradle" value="3800010365" />
+        <entry key="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" value="1907717450" />
+        <entry key="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" value="3792182973" />
+        <entry key="$PROJECT_DIR$/shop-web/build.gradle" value="654641294" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1666,11 +1858,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-common/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-bean/build.gradle" />
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/build.gradle" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" />
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/UserDAO.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ContentCategoryDAO.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ContentDAO.java" />
@@ -1683,10 +1872,7 @@
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/OrderItemDAO.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/OrderShippingDAO.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/manager/ShopManagerApplication.java" />
-        <option value="$PROJECT_DIR$/dependency.gradle" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" />
         <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/shop-web/build.gradle" />
         <option value="$PROJECT_DIR$/shop-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ConsumerService.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ConsumerServiceImpl.java" />
@@ -1695,12 +1881,25 @@
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ItemService.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ItemDubboService.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ShopWebApplication.java" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/impl/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/ngsky/common/pojo/DataResult.java" />
+        <option value="$PROJECT_DIR$/shop-manager/build.gradle" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-interface/build.gradle" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-bean/build.gradle" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config/MyBatisMapperScanConfig.java" />
+        <option value="$PROJECT_DIR$/shop-common/build.gradle" />
+        <option value="$PROJECT_DIR$/dependency.gradle" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-service/build.gradle" />
+        <option value="$PROJECT_DIR$/shop-web/build.gradle" />
       </list>
     </option>
   </component>
@@ -1720,16 +1919,21 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="239" />
-    <option name="y" value="40" />
-    <option name="width" value="1420" />
-    <option name="height" value="1089" />
+    <option name="x" value="-130" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1099" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1740,47 +1944,29 @@
             <path>
               <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="4.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-interface" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-interface" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-interface" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-interface" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-interface" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
@@ -1824,83 +2010,12 @@
             </path>
             <path>
               <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SHOP-SKY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SHOP-SKY" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1915,7 +2030,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1923,11 +2038,11 @@
       <recent name="com.ngsky.web" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\life\projects\SHOP-SKY\shop-web\src\main\resources" />
       <recent name="D:\life\projects\SHOP-SKY\shop-manager\shop-service\src\main\resources" />
-      <recent name="D:\life\projects\SHOP-SKY\shop-manager\shop-dao\src\main\resources\mapper" />
+      <recent name="D:\life\projects\SHOP-SKY\shop-web\src\main\resources" />
+      <recent name="D:\life\projects\SHOP-SKY\shop-manager\shop-service\src\main\resources\config" />
       <recent name="D:\life\projects\SHOP-SKY\shop-manager\shop-dao\src\main\java\com\ngsky\mapper" />
-      <recent name="D:\life\projects\SHOP-SKY\shop-manager\shop-bean\src\main\java\com\ngsky\bean" />
+      <recent name="D:\life\projects\SHOP-SKY\shop-manager" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1942,25 +2057,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShopWebApplication">
+  <component name="RunManager" selected="Spring Boot.ShopManagerApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SHOP-SKY:shop-manager:shop-bean [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SHOP-SKY [gradle clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/shop-manager/shop-bean" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="install" />
+            <option value="gradle" />
+            <option value="clean" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="SHOP-SKY [gradlew]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="gradlew" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
     </configuration>
     <configuration name="SHOP-SKY:shop-manager:shop-dao [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -1992,23 +2125,6 @@
         <option name="taskNames">
           <list>
             <option value="install" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="SHOP-SKY:shop-web [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/shop-web" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2068,19 +2184,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ShopManagerApplication" />
-      <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-bean [install]" />
       <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-dao [install]" />
       <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-interface [install]" />
-      <item itemvalue="Gradle.SHOP-SKY:shop-web [clean]" />
       <item itemvalue="Spring Boot.ShopWebApplication" />
+      <item itemvalue="Gradle.SHOP-SKY [gradle clean]" />
+      <item itemvalue="Gradle.SHOP-SKY [gradlew]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SHOP-SKY [gradlew]" />
+        <item itemvalue="Gradle.SHOP-SKY [gradle clean]" />
         <item itemvalue="Spring Boot.ShopWebApplication" />
-        <item itemvalue="Gradle.SHOP-SKY:shop-web [clean]" />
-        <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-interface [install]" />
         <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-dao [install]" />
-        <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-bean [install]" />
+        <item itemvalue="Gradle.SHOP-SKY:shop-manager:shop-interface [install]" />
       </list>
     </recent_temporary>
   </component>
@@ -2102,56 +2218,128 @@
       <workItem from="1529542849691" duration="2799000" />
       <workItem from="1529937373473" duration="277000" />
       <workItem from="1530007156846" duration="14503000" />
-      <workItem from="1530172409419" duration="2119000" />
+      <workItem from="1530172409419" duration="10531000" />
+      <workItem from="1530260140034" duration="735000" />
+      <workItem from="1530536005388" duration="600000" />
+      <workItem from="1530888777001" duration="251000" />
+      <workItem from="1533599029388" duration="2478000" />
+      <workItem from="1533649484915" duration="6237000" />
+      <workItem from="1533656771726" duration="3350000" />
+      <workItem from="1533687721964" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46127000" />
+    <option name="totallyTimeSpent" value="68447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-7" width="1679" height="993" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.27599487" />
+      <window_info anchor="right" id="sbt" order="3" weight="0.3294263" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50030845" side_tool="true" weight="0.3325554" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2757557" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32991013" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49969155" weight="0.31971994" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3294263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24984577" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32953104" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.400927" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.49872774" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.65816915" />
-      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32908458" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2917153" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22391857" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19864282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22763726" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.3294263" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.16533004" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.31832203" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.16106606" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.5677868" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16106606" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.26285046" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32097334" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22391857" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32953104" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.49872774" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32908458" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.27599487" />
+      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.08957655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35179153" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32991013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16106606" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2161,190 +2349,36 @@
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-868">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar!/org/gradle/api/tasks/compile/JavaCompile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="177" column="26" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar!/org/gradle/api/tasks/compile/CompileOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="106" column="18" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-common/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/mapper/ContentCategoryDAO.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/mapper/ItemCatDAO.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/mapper/ContentDAO.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/bean/UserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/bean/ContentCategory.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/bean/ContentCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/bean/ContentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ContentCategoryMapper.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/src/main/java/com/ngsky/bean/Content.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ContentCategoryDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ContentDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemCatDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemDescDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemParamDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemParamItemDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/MyBatisBaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/OrderDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/OrderItemDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/OrderShippingDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -2352,20 +2386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dependency.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="73" column="53" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -2381,62 +2401,8 @@
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ConsumerDubboService.java" />
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ConsumerService.java" />
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ItemDubboService.java" />
-    <entry file="file://$PROJECT_DIR$/shop-web/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="68" lean-forward="true" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ItemService.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/impl/ItemServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ShopWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="62" lean-forward="true" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/ShopManagerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
@@ -2444,33 +2410,231 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemCatDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemParamDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/MyBatisBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="169" column="2" lean-forward="true" selection-start-line="169" selection-start-column="2" selection-end-line="169" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemDescDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/resources/mapper/UserDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/src/main/java/com/ngsky/interfaces/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ngsky/shop-dao/1.0-SNAPSHOT/shop-dao-1.0-SNAPSHOT.jar!/com/ngsky/mapper/ItemDAO.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/applicationContext-service.xml" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/db.properties" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/SqlMapConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/conf/applicationContext-dao.xml" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/java/com/ngsky/mapper/ItemDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/src/main/resources/mapper/ItemDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1938">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.3.2/ef333f910627506d924a7fd8f0fa0e6dc7c1e366/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.7.RELEASE/253d82ddcbdb2b2452ce9df46a0c5b07401e74a1/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Value.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/2.0.3.RELEASE/81e0234aaf9dbd46a24d9158ceecae8b48f3dd49/spring-boot-devtools-2.0.3.RELEASE-sources.jar!/org/springframework/boot/devtools/restart/RestartLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/config/MyBatisMapperScanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" column="61" lean-forward="true" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="29" />
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/api/Consumer.java">
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/ngsky/common/pojo/DataResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/ngsky/web/ShopWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="10" selection-start-column="6" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-bean/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-dao/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-interface/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-service/src/main/java/com/ngsky/service/ShopManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="82" column="117" selection-start-line="82" selection-start-column="104" selection-end-line="82" selection-end-column="117" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="gradle clean" />
     <option value="gradlew" />
   </component>
   <component name="mavenExecuteGoalHistory">

@@ -1,8 +1,6 @@
 package com.ngsky.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.github.pagehelper.PageHelper;
-import com.github.pagehelper.PageInfo;
 import com.ngsky.bean.Item;
 import com.ngsky.bean.ItemExample;
 import com.ngsky.common.pojo.DataResult;
@@ -31,15 +29,8 @@ public class ItemServiceImpl implements ItemService {
     }
 
     @Override
-    public com.ngsky.common.pojo.DataResult getItemList(int page, int rows) {
-        PageHelper.startPage(page, rows);
-        ItemExample example = new ItemExample();
-        List<Item> itemList = itemDAO.selectByExample(example);
-        DataResult result = new DataResult();
-        result.setRows(itemList);
-        PageInfo<Item> pageInfo = new PageInfo<>(itemList);
-        long total = pageInfo.getTotal();
-        result.setTotal(total);
-        return result;
+    public DataResult getItemList(Long aLong, String s, String s1, int i, int i1) {
+        return null;
     }
+
 }
